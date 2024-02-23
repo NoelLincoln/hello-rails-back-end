@@ -62,7 +62,7 @@ Here is the link to the [Hello Rails Front-End](https://github.com/NoelLincoln/h
 
 ## 💻 API Endpoints <a name="api-endpoints"></a>
 
-- **GET /api/v2/greetings/random**
+- **GET api/v2/greetings/random**
     - Returns a random greeting from the database.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -109,8 +109,6 @@ To run the project, execute the following command:
 ```sh
 rails server
 ```
-
-The API will be accessible at ``.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
