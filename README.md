@@ -37,7 +37,7 @@ This project is a Rails API application that provides a server API for the [Hell
 
 ## 🔗 Integration with Hello Rails Front-End <a name="integration-with-hello-rails-front-end"></a>
 
-Here is the link to the [Hello Rails Front-End](https://github.com/NoelLincoln/hello-rails-front-end/pull/1)repository.
+Here is the link to the [Hello Rails Front-End](https://github.com/NoelLincoln/hello-react-front-end)repository.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
